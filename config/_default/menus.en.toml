@@ -1,0 +1,29 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Central Wiki"
+url = "https://central.wikigrid.com"
+weight = 2
+
+[[main]]
+name = "Start a wiki"
+url = "https://central.wikigrid.com/wiki/Special:RequestWiki"
+weight = 3
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy"
+weight = 3
