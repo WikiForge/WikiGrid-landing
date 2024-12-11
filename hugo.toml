@@ -1,0 +1,4 @@
+baseURL = 'https://www.wikigrid.com/'
+languageCode = 'en-us'
+title = 'WikiGrid'
+theme = 'hugoplate'
