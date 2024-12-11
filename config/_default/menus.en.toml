@@ -11,12 +11,6 @@ name = "Central Wiki"
 url = "https://central.wikigrid.com"
 weight = 2
 
-[[main]]
-name = "Start a wiki"
-url = "https://central.wikigrid.com/wiki/Special:RequestWiki"
-weight = 3
-
-
 # footer menu
 [[footer]]
 name = "About"
