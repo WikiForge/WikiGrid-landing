@@ -2,7 +2,7 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "favicon.ico"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/WikiGrid_logo.svg"
+logo = "https://static.wikigrid.net/centralwiki/2/2a/WikiGrid_Wordmark.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"

@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Grid your plan for success with WikiGrid"
-  content: "Jumpstart your project with WikiGrid's expert hosting and get working within minutes."
+  content: "Jumpstart your project with WikiGrid's expert hosting and get working within minutes! Join a bustling community and start your wiki!"
   image: "/images/banner.png"
   button:
     enable: true
