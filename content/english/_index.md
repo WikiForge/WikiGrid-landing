@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Start Your Wiki"
-    link: "https://central.wikigrid.com/wiki/Special:RequestWiki"
+    link: "https://meta.wikigrid.com/wiki/Special:RequestWiki"
 
 # Features
 features:
@@ -23,5 +23,5 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "https://central.wikigrid.com/wiki/Special:RequestWiki"
+      link: "https://meta.wikigrid.com/wiki/Special:RequestWiki"
 ---

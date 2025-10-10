@@ -8,17 +8,17 @@ weight = 1
 
 [[main]]
 name = "FAQ"
-url = "https://central.wikigrid.com/wiki/FAQ"
+url = "https://meta.wikigrid.com/wiki/FAQ"
 weight = 2
 
 [[main]]
 name = "Central Wiki"
-url = "https://central.wikigrid.com"
+url = "https://meta.wikigrid.com"
 weight = 3
 
 [[main]]
 name = "Help desk"
-url = "https://central.wikigrid.com/wiki/Help_desk"
+url = "https://meta.wikigrid.com/wiki/Help_desk"
 weight = 4
 
 # footer menu
